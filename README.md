@@ -8,9 +8,11 @@ This is the Apex project for managing AWS Lambda functions which perform most of
 
 Coming soon!
 
-## Notes
+## Setup
 
 Rename `project.json.example` to `project.json` and add your AWS Account ID in place of `############`.
+
+Copy `set_env_apex.sh.example` to `set_env_apex.sh` and fill in the appropriate fields. Use this script to configure your environmental variables.
 
 ## License
 

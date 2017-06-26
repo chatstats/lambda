@@ -1,1 +1,5 @@
+# Apex Project
 project.json
+
+# Environmental Variables
+set_env_apex.sh
