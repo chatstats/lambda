@@ -1,0 +1,8 @@
+{
+  "name": "cs",
+  "description": "Supremely Good Chat Statistics",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::############:role/cs_lambda_function",
+  "environment": {}
+}
