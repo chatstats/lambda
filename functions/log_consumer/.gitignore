@@ -1,0 +1,10 @@
+# Apex Deploy Artifacts
+*.dist-info/
+certifi/
+chardet/
+idna/
+msgpack/
+neovim/
+requests/
+urllib3/
+greenlet.*.so

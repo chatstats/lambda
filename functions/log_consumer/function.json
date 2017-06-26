@@ -1,0 +1,6 @@
+{
+	"description": "Consumes logs from the DynamoDB Incoming Log table.",
+    "hooks": {
+        "build": "pip install -r requirements.txt -t ."
+    }
+}
